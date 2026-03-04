@@ -1,5 +1,7 @@
 # MilWeNo - Mil Weather Notifications
 
+### !!! Experimenting with PWA for myself - Not a finished product !!!
+
 A progressive web app that gathers and presents weather data with smart desktop notifications.
 
 ## Features
